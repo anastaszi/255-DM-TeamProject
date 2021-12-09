@@ -24,7 +24,7 @@ In our project we are trying to find the future price of  the houses by analyzin
 --------------- 
 
 # Architecture Diagram:
-![Architecture Diagram](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Images/deploy.png/500x550 "Architeture Diagram")
+![Architecture Diagram](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Images/deploy.png "Architeture Diagram")
 
 # UI:
 
