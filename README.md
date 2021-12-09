@@ -12,6 +12,8 @@
 # Abstract:
 
 By Shreya Ghotankar, Manjiri Kadam, Parvathi Pai, Anastasia Zimina 
+
+
 A home means a future, stability. Every person's dream is to buy their dream house in a lifetime and sell it eventually with a good price and to find a better place as need changes.
 Living a California dream is becoming more difficult each day. There are a lot of job opportunities out there with great weather, lifestyle and increasing demand for housing. 
 
@@ -22,7 +24,7 @@ In our project we are trying to find the future price of  the houses by analyzin
 --------------- 
 
 # Architecture Diagram:
-![Architecture Diagram](http://via.placeholder.com/200x150 "Architeture Diagram")
+![Architecture Diagram](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Images/deploy.png/500x550 "Architeture Diagram")
 
 # UI:
 
