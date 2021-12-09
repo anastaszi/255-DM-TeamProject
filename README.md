@@ -3,15 +3,23 @@
 ## Project Title: House Price Prediction in California
 ## Project Advisor: Prof. Vijay Eranti
 
+Student Names:
+1. Anastasia Zimina : (014543711) anastasia.zimina@sjsu.edu
+2. Manjiri Kadam : (015312076) manjiri.kadam@sjsu.edu
+3. Parvathi Pai : (015293460) parvathi.pai@sjsu.edu
+4. Shreya Ghotankar : (015304393) shreya.ghotankar@sjsu.edu
+------------------
+
 * **Link to our application** : [Cal Mi Casa](http://34.203.189.220:8501/)
-* **Presentation**
-* **Demo Video**
-* **Project Report**
-* **Deployment** 
+* **Presentation** : [Slides]()
+* **Demo Video** : [Video Link]()
+* **Project Report** : [Report]()
+* **Deployment** : [Deployment Doc]()
 -------------------
+
 # Abstract:
 
-By Shreya Ghotankar, Manjiri Kadam, Parvathi Pai, Anastasia Zimina 
+
 
 
 A home means a future, stability. Every person's dream is to buy their dream house in a lifetime and sell it eventually with a good price and to find a better place as need changes.
@@ -28,11 +36,9 @@ In our project we are trying to find the future price of  the houses by analyzin
 
 # UI:
 
+![UI](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Images/UI.png "UI of the application")
 
+# References 
 
-
-
-This repository has Frontend and Backend code for the application.
-For ML component code follow this link
 
 
