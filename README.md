@@ -36,7 +36,13 @@ In our project we are trying to find the future price of  the houses by analyzin
 
 # UI:
 
-![UI]( "UI of the application")
+![UI](https://github.com/anastaszi/255-DM-TeamProject/blob/deployment/Documents/Images/UI.png "UI of the application")
+
+# House Price Predicion 
+![Predict](https://github.com/anastaszi/255-DM-TeamProject/blob/deployment/Documents/Images/predict.png "House Price Prediction in California")
 
 # References 
 
+* [Real Estate Analysis](https://towardsdatascience.com/automating-real-estate-investment-analysis-d2b07395833b)
+* [streamlit app development](https://streamlit.io/)
+* [Streamlit deployment](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
