@@ -32,14 +32,14 @@ In our project we are trying to find the future price of  the houses by analyzin
 --------------- 
 
 # Architecture Diagram:
-![Architecture Diagram](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Images/deploy.png "Architeture Diagram")
+![Architecture Diagram](Documents/Images/deploy.png "Architeture Diagram")
 
 # UI:
 
-![UI](https://github.com/anastaszi/255-DM-TeamProject/blob/deployment/Documents/Images/UI.png "UI of the application")
+![UI](Documents/Images/UI.png "UI of the application")
 
 # House Price Predicion 
-![Predict](https://github.com/anastaszi/255-DM-TeamProject/blob/deployment/Documents/Images/predict.png "House Price Prediction in California")
+![Predict](Documents/Images/predict.png "House Price Prediction in California")
 
 # References 
 
