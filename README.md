@@ -36,7 +36,7 @@ In our project we are trying to find the future price of  the houses by analyzin
 
 # UI:
 
-![UI](https://github.com/anastaszi/255-DM-TeamProject/blob/deployment/Documents/Images/UI.png"UI of the application")
+![UI](https://github.com/anastaszi/255-DM-TeamProject/blob/deployment/Documents/Images/UI.png "UI of the application")
 
 # References 
 
