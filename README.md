@@ -43,6 +43,6 @@ In our project we are trying to find the future price of  the houses by analyzin
 
 # References 
 
-* [Real Estate Analysis]("https://towardsdatascience.com/automating-real-estate-investment-analysis-d2b07395833b")
+* [Real Estate Analysis](https://towardsdatascience.com/automating-real-estate-investment-analysis-d2b07395833b)
 * [streamlit app development](https://streamlit.io/)
 * [Streamlit deployment](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
