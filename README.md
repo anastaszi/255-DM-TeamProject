@@ -13,7 +13,7 @@ Student Names:
 * **Link to our application** : [Cal Mi Casa](http://3.83.55.217:8501/)
 * **Presentation** : [Slides](https://docs.google.com/presentation/d/1Qcz6yF53cHo6FGkDcnNK123qhYybfSn1mx1YDzEBidM/edit#slide=id.p)
 * **Demo Video** : [Video Link](https://drive.google.com/file/d/1v9mzwNPdaOTv4ous8WI0xq5baUrGFsKZ/view?usp=sharing)
-* **Project Report** : [Report](https://docs.google.com/document/d/11UDgW_ZL0ejy9ae5obnyCqn9bwsbTP8R/edit)
+* **Project Report** : [Report](https://drive.google.com/file/d/1yFvw3k5mqDmW17KPJEXtEGK_EQqtsx2V/view?usp=sharing)
 * **Deployment** : [Deployment Doc](Documents/Deployment/Deployment.pdf)
 *  **Link to Colab**: [Google colab](https://colab.research.google.com/drive/1a6bil0zdlii3hkFdBtwZaaf8qzpLl0lL?usp=sharing)
 -------------------
