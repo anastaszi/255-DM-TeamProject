@@ -23,7 +23,7 @@ warnings.filterwarnings('ignore')
 train_path = "data/train.csv"
 test_path = "data/test.csv"
 real = "data/df_final.csv"
-head = 'images/head.jpg'
+head = 'images/head.png'
 
 @st.cache
 def load_train_data(train_path):
