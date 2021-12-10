@@ -14,7 +14,7 @@ Student Names:
 * **Presentation** : [Slides]()
 * **Demo Video** : [Video Link]()
 * **Project Report** : [Report]()
-* **Deployment** : [Deployment Doc]()
+* **Deployment** : [Deployment Doc](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Deployment/Deployment.pdf)
 -------------------
 
 # Abstract:
