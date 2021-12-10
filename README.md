@@ -10,11 +10,11 @@ Student Names:
 4. Shreya Ghotankar : (015304393) shreya.ghotankar@sjsu.edu
 ------------------
 
-* **Link to our application** : [Cal Mi Casa](http://34.203.189.220:8501/)
-* **Presentation** : [Slides]()
+* **Link to our application** : [Cal Mi Casa](http://3.83.55.217:8501/)
+* **Presentation** : [Slides](https://docs.google.com/presentation/d/1Qcz6yF53cHo6FGkDcnNK123qhYybfSn1mx1YDzEBidM/edit#slide=id.p)
 * **Demo Video** : [Video Link]()
-* **Project Report** : [Report]()
-* **Deployment** : [Deployment Doc](https://github.com/anastaszi/255-DM-TeamProject/blob/manji/Documents/Deployment/Deployment.pdf)
+* **Project Report** : [Report](https://docs.google.com/document/d/11UDgW_ZL0ejy9ae5obnyCqn9bwsbTP8R/edit)
+* **Deployment** : [Deployment Doc](Documents/Deployment/Deployment.pdf)
 -------------------
 
 # Abstract:
@@ -41,8 +41,11 @@ In our project we are trying to find the future price of  the houses by analyzin
 # House Price Predicion 
 ![Predict](Documents/Images/predict.png "House Price Prediction in California")
 
+
 # References 
 
 * [Real Estate Analysis](https://towardsdatascience.com/automating-real-estate-investment-analysis-d2b07395833b)
 * [streamlit app development](https://streamlit.io/)
 * [Streamlit deployment](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
+
+
