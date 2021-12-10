@@ -15,6 +15,7 @@ Student Names:
 * **Demo Video** : [Video Link]()
 * **Project Report** : [Report](https://docs.google.com/document/d/11UDgW_ZL0ejy9ae5obnyCqn9bwsbTP8R/edit)
 * **Deployment** : [Deployment Doc](Documents/Deployment/Deployment.pdf)
+*  **Link to Colab**: [Google colab](https://colab.research.google.com/drive/1a6bil0zdlii3hkFdBtwZaaf8qzpLl0lL?usp=sharing)
 -------------------
 
 # Abstract:
