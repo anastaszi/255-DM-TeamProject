@@ -20,15 +20,16 @@ Student Names:
 
 # Abstract:
 
+A home means a future, stability. Every person's dream is to buy a dream house once in their lifetime and maybe sell it eventually for profit. Living a California dream is becoming more difficult each day. There are a lot of job opportunities here with great weather, lifestyle, and housing demand is on the rise.
+
+According to the state housing department, California needs to build 180,000 new houses every year in order to keep up with demand, which is very high, there is a big valley between supply and demand. It is very important to know where you invest your money and get maximum benefit. To make a successful purchase and quote a price that will convert, one has to know about the market, buying/selling conditions, and other multiple factors which are difficult to keep up with.
+
+In our project, we proposed to predict the price of houses in California by analyzing and visualizing the historical data and using machine learning algorithms we trained a model that will predict the price. We have followed the CRISP-DM phases and trained regression model to predict the house prices based on the attributes like - area, number of bedrooms, number of bathrooms, zip code and listing type. The application is implemented with StreamLit and is hosted on the AWS cloud.
 
 
 
-A home means a future, stability. Every person's dream is to buy their dream house in a lifetime and sell it eventually with a good price and to find a better place as need changes.
-Living a California dream is becoming more difficult each day. There are a lot of job opportunities out there with great weather, lifestyle and increasing demand for housing. 
 
-House prices are always changing and it is humanly impossible to determine what the price might be tomorrow. According to the state housing department, California needs to build 180,000 new houses every year in order to keep up with demand, which is very high, there is a big valley between supply and demand. It is very important to know where you invest your money and get maximum benefit. So with help of historical data and machine learning algorithms we are trying to help people to buy affordable houses.
 
-In our project we are trying to find the future price of  the houses by analyzing past trends in California. We have made use of Random Forest regressor to predict the house prices based on the attributes like - area, number of bedrooms, number of bathrooms, zip code and listing type. This project is developed, and built using Streamlit and hosted on  AWS cloud. 
 
 --------------- 
 
